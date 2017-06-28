@@ -1,0 +1,11600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+   xml:lang="yrk" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="Adv">ваˮлерциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ваˮлерциˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">avomielisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вадасиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вадасиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">varauksettomasti</t>
+
+        <t pos="Adv">ehdoitta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вадмбойʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вадмбойʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">one by one</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksitellen</t>
+
+        <t pos="Adv">yksittäin</t>
+
+        <t pos="Adv">vähitellen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вадриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вадриʼ</st>
+
+        <st Contlex="ADV-MANNER_">вадʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">little by little</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vähitellen</t>
+
+        <t pos="Adv">joskus</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">валакада</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">валакада</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">only</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vain</t>
+
+        <t pos="Adv">ainoastaan</t>
+
+        <t pos="Adv">mutta</t>
+
+        <t pos="Adv">sen pituinen se</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ванзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ванзерʼ</st>
+
+        <st Contlex="ADV-MANNER_">вэнзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilkeästi</t>
+
+        <t pos="Adv">pahasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вапекариˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вапекариˮ</st>
+
+        <st Contlex="ADV-MANNER_">вапюкариˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">liian heikosti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вапюˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вапюˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">heikosti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вареˮ≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_Д1">варе</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hädin tuskin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">варехэˮ≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_Д1">варехэ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hädin tuskin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">варехэта</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">варехэта</st>
+
+        <st Contlex="ADV-MANNER_">варета</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hädin tuskin</t>
+
+        <t pos="Adv">vaivoin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">варцавэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">варцавэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">likaisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">варциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">варциˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">puhtaasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ватамбовна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ватамбовна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">liikaa</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ватамбойʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ватамбойʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">liikaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ватонзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ватонзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sopimuksen mukaan</t>
+
+        <t pos="Adv">lain mukaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ватосиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ватосиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilman päämäärää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">выцˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">выцˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hädin tuskin</t>
+
+        <t pos="Adv">vaivoin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вэʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вэʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">huonosti</t>
+
+        <t pos="Adv">köyhästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вэбтыйвана</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вэбтыйвана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ankarasti</t>
+
+        <t pos="Adv">vihaisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вэвавна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вэвавна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">poorly</t>
+      </tg>
+
+      <tg xml:lang="est">
+        <t pos="Adv">kehvasti</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">huonosti</t>
+      </tg>
+
+      <tg xml:lang="rus">
+        <t pos="Adv">плохо</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вэвакоˮявана</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вэвакоˮявана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">epätoivoisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вэльңэ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вэльңэ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksitellen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вэняд</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">вэняд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>from right</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">väärältä puolelta</t>
+
+        <t pos="Adv">oikealta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вэнямна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вэнямна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">väärällä puolella</t>
+
+        <t pos="Adv">huonosti</t>
+
+        <t pos="Adv">oikealla (reen suhteessa)</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">вэтамбойʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">вэтамбойʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">peräkkäin</t>
+
+        <t pos="Adv">jonossa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">екарˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">екарˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>don't know</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">en tiedä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">енаˮмасиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">енаˮмасиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">epäluotettavasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ендаднзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ендаднзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">virran mukaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">еңорʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">еңорʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jälleen</t>
+
+        <t pos="Adv">vielä kerran</t>
+
+        <t pos="Adv">uudestaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">есясавэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">есясавэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">rahalla</t>
+
+        <t pos="Adv">rahakkaana</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">есясиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">есясиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">rahattomasti</t>
+
+        <t pos="Adv">ilmaiseksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">етʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">етʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">näin</t>
+
+        <t pos="Adv">yhä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ецˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ецˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">läpi</t>
+
+        <t pos="Adv">lävitse</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">еңгалё</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">еңгалё</st>
+
+        <st Contlex="ADV-MANNER_">еңгалёко</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jäljekkäin</t>
+
+        <t pos="Adv">peräkkäin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ибˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ибˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">although</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vaikka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ибець</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ибець</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ovelasti</t>
+
+        <t pos="Adv">viisaasti</t>
+
+        <t pos="Adv">järkevästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ибець</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ибець</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">warmly</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">lämpimästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ибясавэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ибясавэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">liimalla</t>
+
+        <t pos="Adv">tarttuvasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ивъерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ивъерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ahkerasti</t>
+
+        <t pos="Adv">rehellisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">инзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">инзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">suostuvaisesti</t>
+
+        <t pos="Adv">taipuisasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ирсуˮ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ирсуˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vierekkäin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">иртˮ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">иртˮ</st>
+
+        <st Contlex="ADV-LOC_">иртпойˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">straight</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">suoraan</t>
+
+        <t pos="Adv">vastapäätä</t>
+
+        <t pos="Adv">avoimesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">иртариˮ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">иртариˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">straight</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">suoraan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ирэхэˮна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ирэхэˮна</st>
+
+        <st Contlex="ADV-MANNER_">ирэˮна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">rinnalla</t>
+
+        <t pos="Adv">verraten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">исавэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">исавэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">järkevästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">исиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">исиˮ</st>
+
+        <st Contlex="ADV-MANNER_">исипойˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">järjenvastaisesti</t>
+
+        <t pos="Adv">älyttömästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">итревʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">итревʼ</st>
+
+        <st Contlex="ADV-MANNER_">итремʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">like water</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kuten vesi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ициˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ициˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">without water</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilman vettä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лаˮамдярциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лаˮамдярциˮ</st>
+
+        <st Contlex="ADV-MANNER_">лаˮмадициˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">impatiently</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kärsimättömästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лабˮнасиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лабˮнасиˮ</st>
+
+        <st Contlex="ADV-MANNER_">ламнасиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">without sound</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">äänettömästi</t>
+
+        <t pos="Adv">meluttomasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лабтˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лабтˮ</st>
+
+        <st Contlex="ADV-MANNER_">лабцˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ketterästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лабцъёрʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лабцъёрʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tasan</t>
+
+        <t pos="Adv">litteästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лабцёйнзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лабцёйнзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">lappeelleen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лакамбойʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лакамбойʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">lyhyeksi aikaa</t>
+
+        <t pos="Adv">toistaiseksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лакриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лакриʼ</st>
+
+        <st Contlex="ADV-MANNER_">лакариʼ</st>
+
+        <st Contlex="ADV-MANNER_">лакʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">suddenly</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">äkkiä</t>
+
+        <t pos="Adv">nopeasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лакривна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лакривна</st>
+
+        <st Contlex="ADV-MANNER_">лакариковна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">suddenly</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">äkkiä</t>
+
+        <t pos="Adv">arvaamatta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лакувна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лакувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">nopeasti</t>
+
+        <t pos="Adv">nopeammin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лимбикавна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лимбикавна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hellästi</t>
+
+        <t pos="Adv">lempeästi</t>
+
+        <t pos="Adv">varovasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лэркабтʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лэркабтʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">suddenly</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhtäkkiä</t>
+
+        <t pos="Adv">odottamatta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">лэтңганзо</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">лэтңганзо</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">varalle</t>
+
+        <t pos="Adv">kaiken varalta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мадармасиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мадармасиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">viivytyksettä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мадарциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мадарциˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hillittömästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">малʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">малʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaikki</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мале</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">мале</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">already</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jo</t>
+
+        <t pos="Adv">kyllälti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">малициˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">малициˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ahnaasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">малмбойʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">малмбойʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaikki</t>
+
+        <t pos="Adv">täysin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">малмюʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">малмюʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">arviokaupalla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">малриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">малриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">arviokaupalla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">малсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">малсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">without end</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">loputtomasti</t>
+
+        <t pos="Adv">määrättömästi</t>
+
+        <t pos="Adv">äärettömästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">малха≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">малха</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">loppuun</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">манатʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">манатʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>personally</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">henkilökohtaisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">манта≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">манта</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">henkilökohtaisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мараˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мараˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hyvä että ei</t>
+
+        <t pos="Adv">päinvastoin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">марнасавэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">марнасавэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">meluisasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">марнасиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">марнасиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">without noise</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">äänettömästi</t>
+
+        <t pos="Adv">hiljaisesti</t>
+
+        <t pos="Adv">ilman natinaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">маровна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">маровна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">itarasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">масиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">масиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">maybe</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ehkä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">маханяʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">маханяʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">oikealle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">маханяд</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">маханяд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>from right</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">oikealta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">маханямна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">маханямна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">oikealtа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">маханяна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">маханяна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>on the right</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">oikeallа</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мелˮмана</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мелˮмана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">taitavasti</t>
+
+        <t pos="Adv">taitaen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">мерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">early</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aikaisin</t>
+
+        <t pos="Adv">pian</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мербявна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">мербявна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pikapuolin</t>
+
+        <t pos="Adv">häthätää</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мербяриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">мербяриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pikaisesti</t>
+
+        <t pos="Adv">yhtäkkiä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мербяривна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">мербяривна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kohta</t>
+
+        <t pos="Adv">piakkoin</t>
+
+        <t pos="Adv">pian</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мервана</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">мервана</st>
+
+        <st Contlex="ADV-TEMP_">мерувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pikaisesti</t>
+
+        <t pos="Adv">nopeasti</t>
+
+        <t pos="Adv">aikaisin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">меркуʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">меркуʼ</st>
+
+        <st Contlex="ADV-TEMP_">меркоʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">nopeammin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мерриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">мерриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kiireisesti</t>
+
+        <t pos="Adv">aikaisin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мертявна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">мертявна</st>
+
+        <st Contlex="ADV-TEMP_">мертёвна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kiireisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мерцянзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мерцянзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">myötätuulessa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">месуриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">месуриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">in vain</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">turhaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">меёвна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">меёвна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">lujasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">миды</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">миды</st>
+
+        <st Contlex="ADV-MANNER_">мэды</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jos tosiaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">минриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">минриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">heti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">минри≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">минри</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kohta</t>
+
+        <t pos="Adv">heti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">минханда</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">минханда</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">at once</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">heti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">минха≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">минха</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">heti</t>
+
+        <t pos="Adv">läpi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мирвсавэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мирвсавэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aseistettuna</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мирциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мирциˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">cheap</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">halvalla</t>
+
+        <t pos="Adv">ilmaiseksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мирциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мирциˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">huonosti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мирципойˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мирципойˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilmaiseksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">моˮнабынʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">моˮнабынʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hengästyksiin</t>
+
+        <t pos="Adv">väsyksiin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мунзавэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мунзавэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">äänekkäästi</t>
+
+        <t pos="Adv">kaikuen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мунзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мунзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="A">tottelevainen</t>
+
+        <t pos="A">kiltti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мунзиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мунзиˮ</st>
+
+        <st Contlex="ADV-MANNER_">мунзипойˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">silently</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">äänettömästi</t>
+
+        <t pos="Adv">ääneti</t>
+
+        <t pos="Adv">vaiti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">муртыциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">муртыциˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv"/>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мэцэйвана</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">мэцэйвана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">koreasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">мянʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">мянʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">approximately</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">noin</t>
+
+        <t pos="Adv">suunnilleen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">наңадяха≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">наңадяха</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kokonaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">невхына</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">невхына</st>
+
+        <st Contlex="ADV-TEMP_">невхэхэна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">earlier</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aikaisemmin</t>
+
+        <t pos="Adv">muinoin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">невхынзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">невхынзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vanhan tavan mukaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">недбясиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">недбясиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">for free</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilmaiseksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ненаˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ненаˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">too</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">erittäin</t>
+
+        <t pos="Adv">liian</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">неновна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">неновна</st>
+
+        <st Contlex="ADV-MANNER_">няновна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">oikeasti</t>
+
+        <t pos="Adv">aidosti</t>
+
+        <t pos="Adv">aidolla tavalla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">неноховавна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">неноховавна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">erityisesti</t>
+
+        <t pos="Adv">eritoten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ненхана≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">ненхана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vihapäissään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ненэсявна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ненэсявна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tosiaan</t>
+
+        <t pos="Adv">kunnollisesti</t>
+
+        <t pos="Adv">todenmukaisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нерˮ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">нерˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">before</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aikaisemmin</t>
+
+        <t pos="Adv">ennen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нерде</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">нерде</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">alussa</t>
+
+        <t pos="Adv">aluksi</t>
+
+        <t pos="Adv">ennen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нерибтеʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">нерибтеʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">alussa</t>
+
+        <t pos="Adv">aluksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нерня</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">нерня</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">edessä</t>
+
+        <t pos="Adv">alussa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нерняʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">нерняʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">eteen</t>
+
+        <t pos="Adv">alkuun</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нерняд</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">нерняд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">edestä</t>
+
+        <t pos="Adv">alusta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нерцубтаʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">нерцубтаʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ennen</t>
+
+        <t pos="Adv">aiemmin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">несэйвана</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">несэйвана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">again</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">uudestaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нибта</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нибта</st>
+
+        <st Contlex="ADV-MANNER_">нибтя</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">either</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jos ei</t>
+
+        <t pos="Adv">joko</t>
+
+        <t pos="Adv">tai</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нири≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">нири</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">armottomasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нуедʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нуедʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">for free</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilmaiseksi</t>
+
+        <t pos="Adv">veloituksetta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нулңгавасиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нулңгавасиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pysähtymättä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ныланзиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ныланзиˮ</st>
+
+        <st Contlex="ADV-MANNER_">нылсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">taukoamatta</t>
+
+        <t pos="Adv">lepäämättä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ныхыˮмасиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ныхыˮмасиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">weakly</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">heikosti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ныхыʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ныхыʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">voimalla</t>
+
+        <t pos="Adv">hyvin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ныхыриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ныхыриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">by force</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">voimalla</t>
+
+        <t pos="Adv">väkisin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ныхысиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ныхысиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">weakly</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">heikosti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нюкута</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нюкута</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hellästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нюлкавна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нюлкавна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pehmeästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нюлкаковна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нюлкаковна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pehmeästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нюлкаңэ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нюлкаңэ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pehmeästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нюрибтеʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">нюрибтеʼ</st>
+
+        <st Contlex="ADV-TEMP_">нюрибтейʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aluksi</t>
+
+        <t pos="Adv">ensiksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нюртейʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">нюртейʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ensimmäistä kertaa</t>
+
+        <t pos="Adv">ensiksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нябинзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нябинзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">otherwise</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">toisin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нябтипойˮ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">нябтипойˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aika lähellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нявриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нявриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vähitellen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нямгсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нямгсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">viipymättä</t>
+
+        <t pos="Adv">ilman viivytystä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нямза</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нямза</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hyvinkin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нянаˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нянаˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>very</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hyvin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нянзиковна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нянзиковна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ohuesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нярˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нярˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">poikittain</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нярмбыхы≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">нярмбыхы</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">punaiseksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">няхарˮңэ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">няхарˮңэ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kolmestaan</t>
+
+        <t pos="Adv">kolmin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нёвриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нёвриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vähitellen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">нёцькокава</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">нёцькокава</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pienenä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пайвана</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">пайвана</st>
+
+        <st Contlex="ADV-MANNER_">паювна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vinossa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пайнзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">пайнзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vinoittain</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">паркасиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">паркасиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">alasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">паромбари</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">паромбари</st>
+
+        <st Contlex="ADV-MANNER_">парумбари</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kiirehtien</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пиʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пиʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">at night</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yöllä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пивасиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">пивасиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>barefoot</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">paljain jaloin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пилиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пилиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">always</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aina</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пилибтˮ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пилибтˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">always</t>
+
+        <t pos="Adv">forever</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aina</t>
+
+        <t pos="Adv">koko ajan</t>
+
+        <t pos="Adv">ainaiseksi</t>
+
+        <t pos="Adv">ainiaaksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пинʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">пинʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>out</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ulos</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пинсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">пинсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">rohkeasti</t>
+
+        <t pos="Adv">pelottomasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пиняʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">пиняʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">out</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ulos</t>
+
+        <t pos="Adv">ulkopuolelle</t>
+
+        <t pos="Adv">kauemmalle</t>
+
+        <t pos="Adv">etäämmälle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пиняд</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">пиняд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">from outside</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ulosta</t>
+
+        <t pos="Adv">ulkopuolelta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пинякуна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">пинякуна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">behind</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">takana</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пиняна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">пиняна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">outside</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ulkona</t>
+
+        <t pos="Adv">ulkopuolella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пирасʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пирасʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhtäaikaisesti</t>
+
+        <t pos="Adv">tasavertaisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пиратʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пиратʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">until</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">saakka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пиркана</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пиркана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">after</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kuluttua</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пирсакоʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">пирсакоʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">lähekkäin</t>
+
+        <t pos="Adv">rinnakkain</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пирсувна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">пирсувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhtä paljon</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пирувна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">пирувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhtä paljon</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пирцявна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">пирцявна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">korkealle</t>
+
+        <t pos="Adv">ylemmäksi</t>
+
+        <t pos="Adv">ylemmäs</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">писянзиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">писянзиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">nauraamatta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">понʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">понʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">long</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kauan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">понаркаʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">понаркаʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aika kauan</t>
+
+        <t pos="Adv">aika pitkään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">понданʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">понданʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kauan</t>
+
+        <t pos="Adv">pitkään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пондэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пондэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">long</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kauan</t>
+
+        <t pos="Adv">pitkään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">понзиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">понзиˮ</st>
+
+        <st Contlex="ADV-MANNER_">понзипойˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tiheästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">понкуʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">понкуʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kauan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">понкуркаʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">понкуркаʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>longer</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kauemmin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пукуркана</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пукуркана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">shortly</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vähän ajan päästä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пустойʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">пустойʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">turhaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пуцейʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пуцейʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">later</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">myöhemmin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пыдиңгана</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пыдиңгана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">koko sen ajan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пыкувна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">пыкувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ahtaasti</t>
+
+        <t pos="Adv">piukasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пырдариʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">пырдариʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">päinvastoin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пэвсюмбʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пэвсюмбʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">in the evening</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">illalla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пэвсюмняна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">пэвсюмняна</st>
+
+        <st Contlex="ADV-TEMP_">пэсьняна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">in the evening</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">illalla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">пэдабцосипойˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">пэдабцосипойˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">uupumattomasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сабе</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сабе</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">very</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">erittäin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сававна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сававна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">well</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hyvin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">саванзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">саванзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hyvä että</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">салсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">салсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilmaiseksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">салциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">салциˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">palauttamattomasti</t>
+
+        <t pos="Adv">peruuttamattomasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сатаˮявна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сатаˮявна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hyvin vahvasti</t>
+
+        <t pos="Adv">eirttäin kovaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">саць</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">саць</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">very</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hyvin</t>
+
+        <t pos="Adv">erittäin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сацьри</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сацьри</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">too</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">liian</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сацярка</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сацярка</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aika kovasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сейсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сейсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sydämmettömänä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сеняˮ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">сеняˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">menneisyydessä</t>
+
+        <t pos="Adv">kauan sitten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сеняна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">сеняна</st>
+
+        <st Contlex="ADV-LOC_">сеняняна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">earlier</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aiemmin</t>
+
+        <t pos="Adv">ennen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">серевʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">серевʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">according to</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vastaavasti</t>
+
+        <t pos="Adv">mukaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">серкаˮ≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_Д1">серка</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksin</t>
+
+        <t pos="Adv">erikseen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сертревʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сертревʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">according to</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vastaavasti</t>
+
+        <t pos="Adv">mukaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">серциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">серциˮ</st>
+
+        <st Contlex="ADV-MANNER_">серципойˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jouten</t>
+
+        <t pos="Adv">näet</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сибицювна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сибицювна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kevyesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сибявна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сибявна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kevyesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сидладʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сидладʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaksin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сидяңэ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сидяңэ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaksin</t>
+
+        <t pos="Adv">kahden kesken</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сикна≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">сикна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kuvaillen</t>
+
+        <t pos="Adv">kaltaisena</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">синя≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">синя</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">silti</t>
+
+        <t pos="Adv">vieläkin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сирю</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сирю</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tahallaan</t>
+
+        <t pos="Adv">tarkoituksella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сирё</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сирё</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tahallaan</t>
+
+        <t pos="Adv">tarkoituksella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сохосиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сохосиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">määrättömästi</t>
+
+        <t pos="Adv">äärettömästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сыңгосиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сыңгосиˮ</st>
+
+        <st Contlex="ADV-MANNER_">суңгосиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">tacitly</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ääneti</t>
+
+        <t pos="Adv">vaiti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сэвсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сэвсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">umpisilmin</t>
+
+        <t pos="Adv">hajamielisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сэвъилиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сэвъилиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">in vain</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">turhaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сэдˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сэдˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vinoon</t>
+
+        <t pos="Adv">vinoittain</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сюри</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сюри</st>
+
+        <st Contlex="ADV-MANNER_">сюрико</st>
+
+        <st Contlex="ADV-MANNER_">сюрикохоя</st>
+
+        <st Contlex="ADV-MANNER_">сирюʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tahallaan</t>
+
+        <t pos="Adv">tieten taiten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сяˮнэмбохона≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">сяˮнэмбохона</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kuinka nopeasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сяˮня</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">сяˮня</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">when</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">milloin</t>
+
+        <t pos="Adv">kuinka pian</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сябтˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сябтˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vinoittain</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сяндʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">сяндʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kuinka paljon ...kin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сянеˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сянеˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">monta kertaa</t>
+
+        <t pos="Adv">monesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сянзиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сянзиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">säälittömästi</t>
+
+        <t pos="Adv">armottomasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сяниˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">сяниˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">eri-</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сятаняʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">сятаняʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vasemmalle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сятаняд</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">сятаняд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vasemmalta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сятанямна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">сятанямна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vasemmalta</t>
+
+        <t pos="Adv">vasemman puolen kautta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сятаняна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">сятаняна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vasemmalla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сяхаʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">сяхаʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">when</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">milloin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сяхабтаʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">сяхабтаʼ</st>
+
+        <st Contlex="ADV-TEMP_">сябтаʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hetkessä</t>
+
+        <t pos="Adv">äkkiä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сяхариʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">сяхариʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aina</t>
+
+        <t pos="Adv">koko ajan</t>
+
+        <t pos="Adv">koska -kaan</t>
+
+        <t pos="Adv">joskus</t>
+
+        <t pos="Adv">koskaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сяхаңгаваʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">сяхаңгаваʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">joskus</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сяхаңгартʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">сяхаңгартʼ</st>
+
+        <st Contlex="ADV-TEMP_">сяхартʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">never</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei koskaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">сяхаңгуна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">сяхаңгуна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">joskus</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ся”нэмбохона≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">ся”нэмбохона</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">miten nopeasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таˮляʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">таˮляʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tänne</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таˮляʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">таляʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tänne</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таˮляˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">таˮляˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">come here!</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tule tänne!</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таˮляд</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">таˮляд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tästä</t>
+
+        <t pos="Adv">täältä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таˮляна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">таˮляна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">täällä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тад</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тад</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">then</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sitten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тадикахад</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тадикахад</st>
+
+        <st Contlex="ADV-TEMP_">тадикэхэд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">after that</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sen jälkeen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тадхава</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тадхава</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">nytpä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таедʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">таедʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kuten täytyy</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тайʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тайʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tuonne</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тайна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тайна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tuolla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тале</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тале</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">secretly</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">salaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">талери</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">талери</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">secretly</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">salaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тальня</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тальня</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">later</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">myöhemmin</t>
+
+        <t pos="Adv">sen jälkeen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тальняʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тальняʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">here</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tänne</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тальцюʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тальцюʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">closer here</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">lähemmäs</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тамась</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тамась</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sopivasti</t>
+
+        <t pos="Adv">juuri</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тамна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тамна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">still</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vielä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тандаяʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тандаяʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">juuri</t>
+
+        <t pos="Adv">vastikään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тандаяриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тандаяриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">juuri</t>
+
+        <t pos="Adv">äsken</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таня</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">таня</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">here</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">täällä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таняʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">таняʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sinne</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таняд</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">таняд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">from there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sieltä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">танямна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">танямна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">along there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sitä kautta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таняна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">таняна</st>
+
+        <st Contlex="ADV-LOC_">тэйняна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">siellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таняңгахаˮна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">таняңгахаˮна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">harvoin</t>
+
+        <t pos="Adv">hetkittäin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таня≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">таня</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">silti</t>
+
+        <t pos="Adv">vieläkin</t>
+      </tg>
+    </mg>
+
+    <!-- !Yamal -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таремʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">таремʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">so</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">niin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тарсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тарсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">too</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aivan liian</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тасиʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тасиʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">alas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тасимна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тасимна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">alitse</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тасина</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тасина</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">allapäin</t>
+
+        <t pos="Adv">alle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тасиняд</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тасиняд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">alhaalta</t>
+
+        <t pos="Adv">alapuolelta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тасинямна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тасинямна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">alakautta</t>
+
+        <t pos="Adv">alitse</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тасиняна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тасиняна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">alhaalla</t>
+
+        <t pos="Adv">alapuolella</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тасиняюʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тасиняюʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">alhaalle</t>
+
+        <t pos="Adv">alapuolelle</t>
+
+        <t pos="Adv">alajuoksulle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тахаˮ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тахаˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">eri puoliin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тахаˮна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тахаˮна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">eri puolilla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тахаби</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тахаби</st>
+
+        <st Contlex="ADV-MANNER_">тахабя</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">but now</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">mutta nyt</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тахаваʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тахаваʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">at last</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vihoviimein</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тахат</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тахат</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">eri paikoista</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таңок</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">таңок</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sen verran</t>
+
+        <t pos="Adv">näin paljon</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">таңокувна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">таңокувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sen verran</t>
+
+        <t pos="Adv">näin paljon</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">теˮня</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">теˮня</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">silloin</t>
+
+        <t pos="Adv">sinä aikana</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тебтаʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тебтаʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">tomorrow</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">huomenna</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тедаʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тедаʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">now</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">nyt</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тедариʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тедариʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">for now</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">toistaiseksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тедахаваʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тедахаваʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">nythän</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">темдʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">темдʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">joskus</t>
+
+        <t pos="Adv">toinen kerta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тенадʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тенадʼ</st>
+
+        <st Contlex="ADV-TEMP_">тендʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tähän saakka</t>
+
+        <t pos="Adv">tähän asti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">теняна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">теняна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">yesterday</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">eilen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тетлад</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тетлад</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">nelittäin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тидˮ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тидˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">directly</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">suoraan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тидпойˮ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тидпойˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">suoraan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тикавна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тикавна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">along there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sitäkautta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тикад</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тикад</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">from there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sieltä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тиканʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тиканʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sinne</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тикана</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тикана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">siellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тикана</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тикахана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">siellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тикана</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тикэхэна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">siellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тикахад</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тикахад</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">from there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sieltä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тикахад</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тикэхэд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">from there</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sieltä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тикыринда</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тикыринда</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">at once</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">heti</t>
+
+        <t pos="Adv">nyt</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тикырихина</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тикырихина</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">at once</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">heti</t>
+
+        <t pos="Adv">nyt</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тихинда</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тихинда</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tarkkaan</t>
+
+        <t pos="Adv">oikein</t>
+
+        <t pos="Adv">loppuun asti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тиңгэри</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тиңгэри</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">likimäärin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тотревʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тотревʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">like</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kuten</t>
+
+        <t pos="Adv">tavalla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">то≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">то</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">molemmat</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тыякувна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тыякувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kapeasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тэбала</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тэбала</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">harvoin</t>
+
+        <t pos="Adv">väljänä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тэри</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тэри</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">just</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vain</t>
+
+        <t pos="Adv">pelkästään</t>
+
+        <t pos="Adv">tavallisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тэтыкариˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тэтыкариˮ</st>
+
+        <st Contlex="ADV-MANNER_">тэхэкариˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kiireessä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюˮуʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тюˮуʼ</st>
+
+        <st Contlex="ADV-LOC_">тюʼ</st>
+
+        <st Contlex="ADV-LOC_">тяˮвуʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">upward</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ylöspäin</t>
+
+        <t pos="Adv">pois</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюˮуд</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тюˮуд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ylhäältä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюˮуна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тюˮуна</st>
+
+        <st Contlex="ADV-LOC_">тюна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ylhäällä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюˮуриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тюˮуриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">upward</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ylöspäin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюˮурина</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тюˮурина</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ylhäällä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюковна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тюковна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">along here</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tätä kautta</t>
+
+        <t pos="Adv">täällä päin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюконʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тюконʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">here</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tänne</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюкоход</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тюкоход</st>
+
+        <st Contlex="ADV-LOC_">тюкод</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">from here</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">täältä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюкохона</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">тюкохона</st>
+
+        <st Contlex="ADV-LOC_">тюкона</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">here</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">täällä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюку яляʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тюку яляʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">today</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tänään</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюкуˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тюкуˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">all</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaikki</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюкуˮлиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тюкуˮлиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">täydellisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тюкумбоʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">тюкумбоʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">this year</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tänä vuonna</t>
+      </tg>
+    </mg>
+
+    <!--  Pusztay 282-->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тянё</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тянё</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">few</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vähän</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тянёмбовна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тянёмбовна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vähän aikaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тянёхорт</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тянёхорт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ollenkaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тяхамна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тяхамна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">liian</t>
+
+        <t pos="Adv">liiaksi</t>
+
+        <t pos="Adv">lisäksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тяхана</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тяхана</st>
+
+        <st Contlex="ADV-TEMP_">тяхана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kauempana</t>
+
+        <t pos="Adv">aiemmin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тяхариʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тяхариʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">very</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hyvin</t>
+
+        <t pos="Adv">oikein</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">тяхасовна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">тяхасовна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ahkerasti</t>
+
+        <t pos="Adv">huolellisesti</t>
+
+        <t pos="Adv">tarkasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хаˮли≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">хаˮли</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vain itse</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хабянза</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хабянза</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">taitaen</t>
+
+        <t pos="Adv">taitavasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хадриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хадриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">of course</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tietysti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хадёсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хадёсиˮ</st>
+
+        <st Contlex="ADV-MANNER_">хадёнзиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilman vahingotta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хайласиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хайласиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">without tears</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kyynelettömästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хамадавдавэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хамадавдавэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">without notice</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">huomaamatta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хамадициˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хамадициˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">käsittämättömästi</t>
+
+        <t pos="Adv">epäselvästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханзелиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ханзелиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">anyhow</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">miten tahansa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханзерˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ханзерˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">how</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">miten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханзеркаваˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ханзеркаваˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">somehow</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jotenkin</t>
+
+        <t pos="Adv">eräänä päivänä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханзеркартˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ханзеркартˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei mitenkään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханзосиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ханзосиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">heikosti</t>
+
+        <t pos="Adv">riittämättömästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханэйвана</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ханэйвана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei heti</t>
+
+        <t pos="Adv">ei kovasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханяна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ханяна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">where</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">missä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханяхаваʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ханяхаваʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">to somewhere</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">johonkin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханяхавамна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ханяхавамна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">along somewhere</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jotakin kautta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханяхавахад</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ханяхавахад</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">from somewhere</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jostakin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханяхавахана</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ханяхавахана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">somewhere</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jossakin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханяхартахад</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ханяхартахад</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">from nowhere</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei mistään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханяхартахана</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ханяхартахана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">nowhere</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei missään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханяхартʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ханяхартʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">nowhere</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei mihinkään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханяцейʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ханяцейʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tahallaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ханяңэхэˮна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ханяңэхэˮна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">joskus</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">харˮ≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_Д1">хар</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">itse</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">харасиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">харасиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">without reason</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilman syytä</t>
+
+        <t pos="Adv">syyttömästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">харбёвна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">харбёвна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ahkerasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">харвабаˮ≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_Д1">харваба</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vaikka</t>
+
+        <t pos="Adv">joskaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">харвабта</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">харвабта</st>
+
+        <st Contlex="ADV-MANNER_">харвобта</st>
+
+        <st Contlex="ADV-MANNER_">харобта</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ehkä</t>
+
+        <t pos="Adv">kenties</t>
+
+        <t pos="Adv">saattaa olla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хареˮ≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_Д1">харе</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">itsekse-</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хахая</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хахая</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">lähellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хацяʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хацяʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">melkein</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хубтавна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хубтавна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaukana</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хубтарка</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хубтарка</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vähän kaukana</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хубтахана</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">хубтахана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aamulla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хувʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">хувʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">in the morning</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aamulla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">худңганзуʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">худңганзуʼ</st>
+
+        <st Contlex="ADV-MANNER_">худгазуʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jotenkuten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хуйрябт</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хуйрябт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">puhumattakaan että</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хумбанзиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хумбанзиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">turhaan</t>
+
+        <t pos="Adv">suotta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хумбирувна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хумбирувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kuinka monta</t>
+
+        <t pos="Adv">mikäli</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хуна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хуна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">missä</t>
+
+        <t pos="Adv">milloin</t>
+
+        <t pos="Adv">jolloin kulloin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хунаданя</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хунаданя</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">siellä täällä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хунари</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">хунари</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">whenever</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">milloin tahansa</t>
+
+        <t pos="Adv">missä tahansa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хунатʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">хунатʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pitkään</t>
+
+        <t pos="Adv">mittaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хунахарт</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хунахарт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">nowhere</t>
+
+        <t pos="Adv">never</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei missään</t>
+
+        <t pos="Adv">ei koskaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хунахартад</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хунахартад</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">from nowhere</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei mistään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хункана</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">хункана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">päässä</t>
+
+        <t pos="Adv">mitassa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хуняна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">хуняна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">tomorrow</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">huomenna</t>
+
+        <t pos="Adv">aamulla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хуриʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хуриʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">very</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hyvin</t>
+
+        <t pos="Adv">oikein</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хуримна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хуримна</st>
+
+        <st Contlex="ADV-LOC_">хурина</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">everywhere</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaikkiaalla</t>
+
+        <t pos="Adv">kaikesta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хуринзава</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хуринзава</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">oikein hyvin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хуркавна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хуркавна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">miten</t>
+
+        <t pos="Adv">kuinka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хусей</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хусей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei ainoastaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хухуртʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хухуртʼ</st>
+
+        <st Contlex="ADV-LOC_">хултʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">nowhere</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei mihinkään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хухуртувна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хухуртувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">nowhere</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ei missään</t>
+
+        <t pos="Adv">ei mistään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хынра</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хынра</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vihamielisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хынсуʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хынсуʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vastakkain</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хынёсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хынёсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ystävällisesti</t>
+
+        <t pos="Adv">rauhallisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хырприʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хырприʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sivumennen</t>
+
+        <t pos="Adv">ohi</t>
+
+        <t pos="Adv">ohitse</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хэˮлиʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">хэˮлиʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">often</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">usein</t>
+
+        <t pos="Adv">koko ajan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хэвʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">хэвʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">lyhyesti</t>
+
+        <t pos="Adv">vähän aikaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хэвасʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хэвасʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pareittain</t>
+
+        <t pos="Adv">parittain</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хэвдынзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хэвдынзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sivuittain</t>
+
+        <t pos="Adv">kyljittäin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хэвдэнʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хэвдэнʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sivulle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хэвдэхэд</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хэвдэхэд</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sivusta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хэвняʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">хэвняʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sivuun</t>
+
+        <t pos="Adv">pois</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">хэхэдёйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">хэхэдёйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aina</t>
+
+        <t pos="Adv">lakkaamatta</t>
+
+        <t pos="Adv">taukoamatta</t>
+
+        <t pos="Adv">yhtä mittaa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">юдэсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">юдэсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilman unta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">юнсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">юнсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilman viestiä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">юнуйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">юнуйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">keväällä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">юркабтʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">юркабтʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yht'äkkiä</t>
+
+        <t pos="Adv">arvaamatta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">юрцавэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">юрцавэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">rasvaisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яˮавла</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">яˮавла</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kerkeästi</t>
+
+        <t pos="Adv">ankarasti</t>
+
+        <t pos="Adv">synkästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яˮли≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">яˮли</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksin</t>
+
+        <t pos="Adv">itse</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ябда</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ябда</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">onnellisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ябе</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ябе</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">juovuksissa</t>
+
+        <t pos="Adv">humalassa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ябтавна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ябтавна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ohuesti</t>
+
+        <t pos="Adv">niukalti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ябтанʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ябтанʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">please</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ole hyvä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ябтийвана</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ябтийвана</st>
+
+        <st Contlex="ADV-MANNER_">ябтивана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">lujasti</t>
+
+        <t pos="Adv">kovasti</t>
+
+        <t pos="Adv">jyrkästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ябтёйвана</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ябтёйвана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kosteasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яда</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">яда</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jalan</t>
+
+        <t pos="Adv">kävelemällä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ядабтё</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ядабтё</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vinosti</t>
+
+        <t pos="Adv">vastaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яднзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">яднзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">luisua pitkin</t>
+
+        <t pos="Adv">vastaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ядоңганзуʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ядоңганзуʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vastapäätä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ядха≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">ядха</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">itse asiassa</t>
+
+        <t pos="Adv">tosiasiassa</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">якэсиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">якэсиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">savuttomasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ял</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ял</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vaan</t>
+
+        <t pos="Adv">vain</t>
+
+        <t pos="Adv">ainoastaan</t>
+
+        <t pos="Adv">yksinään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яла≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">яла</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ялри≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">ялри</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ялэˮ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ялэˮ</st>
+
+        <st Contlex="ADV-TEMP_">ялэхэˮ</st>
+
+        <st Contlex="ADV-TEMP_">ялэˮмана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">päivittäin</t>
+
+        <t pos="Adv">joka päivä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яляʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">яляʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">päivällä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ялявна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ялявна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kirkkaasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яляхаˮна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">яляхаˮна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">päivittäin</t>
+
+        <t pos="Adv">joka päivä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ямбˮявана</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ямбˮявана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hyviin pitkään</t>
+
+        <t pos="Adv">pitkäveteisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ямбнзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ямбнзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pitkittäin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ямбувна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ямбувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kauan</t>
+
+        <t pos="Adv">pitkään</t>
+
+        <t pos="Adv">jatkuvasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">янʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">янʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">erittäin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">янˮна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">янˮна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">lähellä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яндахаˮ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">яндахаˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaikkialle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яндахаˮна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">яндахаˮна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaikkialla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яндахат</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">яндахат</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaikkialta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яносарка</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">яносарка</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">myöhemmin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яноёрць</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">яноёрць</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vähitellen</t>
+
+        <t pos="Adv">vihoviimein</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ярʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ярʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sivusta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ярме</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ярме</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhtäkkiä</t>
+
+        <t pos="Adv">arvaamatta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ярмюйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ярмюйʼ</st>
+
+        <st Contlex="ADV-MANNER_">ермюйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">äkkiä</t>
+
+        <t pos="Adv">yllättäen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яңга</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">яңга</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">erikseen</t>
+
+        <t pos="Adv">erilleen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яңорʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">яңорʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">uudestaan</t>
+
+        <t pos="Adv">jälleen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">яңорэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">яңорэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">uudestaan</t>
+
+        <t pos="Adv">uudelleen</t>
+
+        <t pos="Adv">takaperin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңабтацавэйʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңабтацавэйʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">myrkyllisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңабца≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">ңабца</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">sopivasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңавна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңавна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aikaisemmin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңаворципойˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңаворципойˮ</st>
+
+        <st Contlex="ADV-MANNER_">ңаворциˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">nälkäisesti</t>
+
+        <t pos="Adv">nälkään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңаворциркаˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңаворциркаˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">puolinälässä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңавоциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңавоциˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">mauttomasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңавхана</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңавхана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aikaisemmin</t>
+
+        <t pos="Adv">ennestään</t>
+
+        <t pos="Adv">kauan sitten</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңавхат</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңавхат</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vanhastaan</t>
+
+        <t pos="Adv">etäältä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңаданʼ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ңаданʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kauas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңадьбя≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">ңадьбя</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">siksi</t>
+
+        <t pos="Adv">sen takia</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңамгэ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңамгэ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>why</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">miksi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңамгэмбирувна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңамгэмбирувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>how expensive?</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">millä hinnalla?</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңамгэмбовна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңамгэмбовна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>a little</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vähään</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңанзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңанзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">strangely</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">oudosti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңаниʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңаниʼ</st>
+
+        <st Contlex="ADV-TEMP_">ань</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">again</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">taas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңанинзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңанинзерʼ</st>
+
+        <st Contlex="ADV-MANNER_">ңанисерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">differently</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">toisella tavalla</t>
+
+        <t pos="Adv">toisinpäin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңанихиˮна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңанихиˮна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">joskus</t>
+
+        <t pos="Adv">silloin tällöin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңариˮ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңариˮ</st>
+
+        <st Contlex="ADV-TEMP_">ңареˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t>totally</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">aivan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңарикавахананда</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңарикавахананда</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">todellako</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңарха≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">ңарха</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">täysin</t>
+
+        <t pos="Adv">koko</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңахаˮ</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ңахаˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kauas</t>
+
+        <t pos="Adv">etäälle</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңахаˮна</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ңахаˮна</st>
+
+        <st Contlex="ADV-LOC_">ңаˮна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaukana</t>
+
+        <t pos="Adv">etäälä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңахат</l>
+
+      <stg>
+        <st Contlex="ADV-LOC_">ңахат</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kaukaa</t>
+
+        <t pos="Adv">etäältä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңоˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңоˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">too</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">myös</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңобʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">at once</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">heti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобˮладˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобˮладˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksitellen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобˮмэсь</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобˮмэсь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksi toisensa jälkeen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобˮняʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобˮняʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhdessä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобˮңэсь</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобˮңэсь</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">koko ajan</t>
+
+        <t pos="Adv">aina</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобкад</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңобкад</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">often</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">usein</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобкана</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобкана</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhdessä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобкарт</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобкарт</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksikään</t>
+
+        <t pos="Adv">yhtään</t>
+
+        <t pos="Adv">lainkaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңоблад</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңоблад</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksitellen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобнзерʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобнзерʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhdessä</t>
+
+        <t pos="Adv">yhteisesti</t>
+
+        <t pos="Adv">samalla</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобпиняʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңобпиняʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">continuously</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">jatkuvasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобпирувна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобпирувна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tasavertaisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобтʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобтʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">together</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhdessä</t>
+
+        <t pos="Adv">yhteisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобтаремʼ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобтаремʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">also</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">myös</t>
+
+        <t pos="Adv">samoin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобтаңок</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобтаңок</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhtä paljon</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобтикы</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңобтикы</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhtä kaikki</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобңгуна</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңобңгуна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kerran</t>
+
+        <t pos="Adv">joskus</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңобңгэвʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңобңгэвʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">koko ajan</t>
+
+        <t pos="Adv">yhtäjaksoisesti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңодˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңодˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">myös</t>
+
+        <t pos="Adv">sekä</t>
+
+        <t pos="Adv">vaikka</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңодьˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңодьˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">barely</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">tuskin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңодьри≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">ңодьри</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">hädin tuskin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңока</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңока</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">many</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">paljon</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңокаʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңокаʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">often</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">usein</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңокавна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңокавна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">a lot</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">paljon</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңокха≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">ңокха</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yhteensä</t>
+
+        <t pos="Adv">kaikkiaan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңопориңэ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңопориңэ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">yksikseen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңосю</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңосю</st>
+
+        <st Contlex="ADV-MANNER_">ңовсе</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kokonaan</t>
+
+        <t pos="Adv">täysin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңотаңоˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңотаңоˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">kuitenkin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңоякʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңоякʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">rarely</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">harvoin</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңулиˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңулиˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">totally</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">täysin</t>
+
+        <t pos="Adv">aivan</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңуциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңуциˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">ilman jälkeä</t>
+
+        <t pos="Adv">jäljettömästi</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңуя</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңуя</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">loosely</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">vapaasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңэвадярциˮ</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңэвадярциˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv"/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">levottomasti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңэлиривна</l>
+
+      <stg>
+        <st Contlex="ADV-MANNER_">ңэлиривна</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">epätavallisesti</t>
+
+        <t pos="Adv">oudosti</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңэломʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңэломʼ</st>
+
+        <st Contlex="ADV-TEMP_">ңэловʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">soon</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pian</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңэлоримʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңэлоримʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Adv">soon</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">pian</t>
+
+        <t pos="Adv">kohta</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңэрёʼ</l>
+
+      <stg>
+        <st Contlex="ADV-TEMP_">ңэрёʼ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t/>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">syksyllä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Adv">ңэсо≈</l>
+
+      <stg>
+        <st Contlex="ADV-REF_">ңэсо</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="fin">
+        <t pos="Adv">siltään</t>
+
+        <t pos="Adv">ilman syytä</t>
+      </tg>
+    </mg>
+  </e>
+</r>

@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
+   xml:lang="yrk" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+  <e>
+    <lg>
+      <l pos="Num">нуль</l>
+
+      <stg>
+        <st Contlex="NUM_ЕД">нуль</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">zero</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">nolla</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">ңопой</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">ңопой</st>
+
+        <st Contlex="NUM_ВАР">ңобˮ</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">one</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">yksi</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">сидя</l>
+
+      <stg>
+        <st Contlex="NUM_ҢОДИ/ТЁН">сидя</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">two</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">kaksi</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">няхарˮ</l>
+
+      <stg>
+        <st Contlex="NUM_ВАР">няхар</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">three</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">kolme</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">тет</l>
+
+      <stg>
+        <st Contlex="NUM_ЕД/ТИРЕ">тет</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">four</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">neljä</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">самляңг</l>
+
+      <stg>
+        <st Contlex="NUM_ЕД/ХАНО">самляңг</st>
+
+        <st Contlex="NUM_ЕД/ХАНО">самбляңг</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">five</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">viisi</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">матˮ</l>
+
+      <stg>
+        <st Contlex="NUM_МЯДО">мат</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">six</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">kuusi</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">сиˮив</l>
+
+      <stg>
+        <st Contlex="NUM_ТИРЕ/ХАНО">сиˮив</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">seven</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemän</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">сидндет</l>
+
+      <stg>
+        <st Contlex="NUM_ЕД/ТИРЕ">сидндет</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">eight</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeksan</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">хасуюˮ</l>
+
+      <stg>
+        <st Contlex="NUM_МЯДО">хасую</st>
+
+        <st Contlex="NUM_МЯДО">хасаваю</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">nine</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksän</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">юˮ</l>
+
+      <stg>
+        <st Contlex="NUM_МЯДО">ю</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">ten</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">kymmenen</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">юрˮ</l>
+
+      <stg>
+        <st Contlex="NUM_ТАРЕ">юр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">hundred</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">sata</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">сотня</l>
+
+      <stg>
+        <st Contlex="NUM_ҢОДИ">сотня</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">hundred</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">sata</t>
+      </tg>
+    </mg>
+
+    <!--Western-->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">хасаваюрˮ</l>
+
+      <stg>
+        <st Contlex="NUM_ТАРЕ">хасаваюр</st>
+
+        <st Contlex="NUM_ТАРЕ">хасуюр</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">ninety</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksänkymmentä</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">ёнарˮ</l>
+
+      <stg>
+        <st Contlex="NUM_ТАРЕ">ёнар</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">thousand</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">tuhat</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">хасаваёнарˮ</l>
+
+      <stg>
+        <st Contlex="NUM_ТАРЕ">хасаваёнар</st>
+
+        <st Contlex="NUM_ТАРЕ">хасуёнар</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">900</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksänsata</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">миллион</l>
+
+      <stg>
+        <st Contlex="NUM_ЕД">миллион</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">million</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">miljoona</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="Num">ңобˮ яңгня</l>
+
+      <stg>
+        <st Contlex="NUM_ҢУДИ">ңобˮ яңгня</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">eleven</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">yksitoista</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e exclude="fst">
+    <lg>
+      <l pos="Num">сидя яңгня</l>
+
+      <stg>
+        <st Contlex="NUM_ҢУДИ">сидя яңгня</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">twelve</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">kaksitoista</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">яңгня</l>
+
+      <stg>
+        <st Contlex="NUM_ҢОДИ">яңгня</st>
+
+        <st Contlex="NUM_ҢОДИ">яңганя</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">-teen</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">-toista</t>
+      </tg>
+    </mg>
+
+    <!--  -->
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">нюртей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">нюртей</st>
+
+        <st Contlex="NUM_ХУСУВЭЙ">нeртей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">first</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">ensimmäinen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">нябимдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">нябимдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">second</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">toinen</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">няхарамдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">няхарамдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">third</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">kolmas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">няхаромдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">няхаромдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">third</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">kolmas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">тетимдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">тетимдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">fourth</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">neljäs</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">самлянзимдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">самлянзимдей</st>
+
+        <st Contlex="NUM_ХУСУВЭЙ">самблянзюмдей</st>
+
+        <st Contlex="NUM_ХУСУВЭЙ">самлязимдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">fifth</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">viides</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">матдомдэй</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">матдомдэй</st>
+
+        <st Contlex="NUM_ХУСУВЭЙ">матдамдэй</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">sixth</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">kuudes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">сибимдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">сибимдей</st>
+
+        <st Contlex="NUM_ХУСУВЭЙ">сиˮивмдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">seventh</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">seitsemäs</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">сидндетимдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">сидндетимдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">eighth</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">kahdeksäs</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">хасаваюдимдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">хасаваюдимдей</st>
+
+        <st Contlex="NUM_ХУСУВЭЙ">хасуюдимдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">ninth</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksäs</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">хасаваёнаримдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">хасаваёнаримдей</st>
+
+        <st Contlex="NUM_ХУСУВЭЙ">хасуёнаримдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">ninth hundredth</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">yhdeksässadas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">юдимдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">юдимдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">tenth</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">kymmenes</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">юримдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">юримдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">hundredth</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">sadas</t>
+      </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="Num">ёнрадимдей</l>
+
+      <stg>
+        <st Contlex="NUM_ХУСУВЭЙ">ёнрадимдей</st>
+
+        <st Contlex="NUM_ХУСУВЭЙ">ёнримдей</st>
+
+        <st Contlex="NUM_ХУСУВЭЙ">ёнромдей</st>
+      </stg>
+    </lg>
+
+    <mg>
+      <defNative/>
+
+      <tg xml:lang="eng">
+        <t pos="Num">thousandth</t>
+      </tg>
+
+      <tg xml:lang="fin">
+        <t pos="Num">tuhannes</t>
+      </tg>
+    </mg>
+  </e>
+</r>
