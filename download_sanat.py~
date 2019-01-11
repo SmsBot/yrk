@@ -69,7 +69,7 @@ change_branch()
 print "Downloading XMLs from sanat"
 download_xmls()
 pretty_xmls()
-print "\n\nAll done!\n\nMerge wiki_branch to master. Push and go to http://www.akusanat.com/smsxml/git_postmerge/?language=" + language
+print "\n\nAll done!\n\nMerge wiki_branch to master. Push and go to http://sanat.csc.fi:8000/smsxml/git_postmerge/?language=" + language
 
 
 	 
